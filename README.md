@@ -1,3 +1,5 @@
+![photo_2025-03-09_16-05-48](https://github.com/user-attachments/assets/ff56a743-b064-4d0b-84cc-d649c12c3cb3)
+
 
 # RemindeRx
 
@@ -13,6 +15,7 @@ RemindeRX is a mobile application built with React Native, Firebase, Node.js, Ex
 - RemindeRX is a mobile application designed to streamline and enhance health management for patients and caregivers.
 - Manages medication schedules, monitors inventory, and handles contact information and IoT integration.
 - Send a push notification when a reminder is due
+- Send a push notification when there's a new max sensor data
 - Sends push notifications when the medicine stock reaches 5 and when the expiration date is 7 days away.
 - If the user does not respond to the push notification, takes or skips the medication, a reminder will be sent up to 3 times before an SMS is sent to the contact.
 - Medical News API for fetching the latest healthcare and medical-related articles
