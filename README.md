@@ -1,5 +1,4 @@
-![photo_2025-03-09_16-05-48](https://github.com/user-attachments/assets/ff56a743-b064-4d0b-84cc-d649c12c3cb3)
-
+![Untitled design](https://github.com/user-attachments/assets/501b3ed0-acc6-4797-99c4-b12632d4d570)
 
 # RemindeRx
 
